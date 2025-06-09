@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "WageWise",
+    "slug": "wagewise",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "entryPoint": "index.js"
+  }
+}
